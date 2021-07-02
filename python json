@@ -1,0 +1,4 @@
+JSON is a pure string written in a convention format, which does not have any characteristics of data structure.
+Python's dictionary key can be any hash object, and JSON can only be a string.
+The Python dict string uses single quotation marks, and JSON enforces double quotation marks. You can nest tuple in Python dict.
+
